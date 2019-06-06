@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Orange HRM Demo Test" duration-ms="177896" started-at="2018-10-21T16:28:28Z" finished-at="2018-10-21T16:31:26Z">
+    <groups>
+    </groups>
+    <test name="Gmail Test" duration-ms="177896" started-at="2018-10-21T16:28:28Z" finished-at="2018-10-21T16:31:26Z">
+      <class name="com.testcase.LoginPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testcase.LoginPageTest@7cd62f43]" name="setup" is-config="true" duration-ms="7466" started-at="2018-10-21T16:28:28Z" finished-at="2018-10-21T16:28:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginPageTest()[pri:0, instance:com.testcase.LoginPageTest@7cd62f43]" name="loginPageTest" duration-ms="14679" started-at="2018-10-21T16:28:36Z" finished-at="2018-10-21T16:28:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcase.LoginPageTest@7cd62f43]" name="tearDown" is-config="true" duration-ms="658" started-at="2018-10-21T16:28:51Z" finished-at="2018-10-21T16:28:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testcase.LoginPageTest -->
+      <class name="com.testcase.HomePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testcase.HomePageTest@6d4b1c02]" name="setup" is-config="true" duration-ms="20731" started-at="2018-10-21T16:28:51Z" finished-at="2018-10-21T16:29:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="composeMailTest()[pri:1, instance:com.testcase.HomePageTest@6d4b1c02]" name="composeMailTest" duration-ms="36496" started-at="2018-10-21T16:29:12Z" finished-at="2018-10-21T16:29:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- composeMailTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcase.HomePageTest@6d4b1c02]" name="tearDown" is-config="true" duration-ms="719" started-at="2018-10-21T16:29:48Z" finished-at="2018-10-21T16:29:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testcase.HomePageTest@6d4b1c02]" name="setup" is-config="true" duration-ms="20150" started-at="2018-10-21T16:29:49Z" finished-at="2018-10-21T16:30:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="markAsStartTest()[pri:2, instance:com.testcase.HomePageTest@6d4b1c02]" name="markAsStartTest" duration-ms="22666" started-at="2018-10-21T16:30:09Z" finished-at="2018-10-21T16:30:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- markAsStartTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcase.HomePageTest@6d4b1c02]" name="tearDown" is-config="true" duration-ms="720" started-at="2018-10-21T16:30:32Z" finished-at="2018-10-21T16:30:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testcase.HomePageTest@6d4b1c02]" name="setup" is-config="true" duration-ms="20126" started-at="2018-10-21T16:30:33Z" finished-at="2018-10-21T16:30:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="opeRecentlySentMailTest()[pri:3, instance:com.testcase.HomePageTest@6d4b1c02]" name="opeRecentlySentMailTest" duration-ms="32755" started-at="2018-10-21T16:30:53Z" finished-at="2018-10-21T16:31:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- opeRecentlySentMailTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcase.HomePageTest@6d4b1c02]" name="tearDown" is-config="true" duration-ms="706" started-at="2018-10-21T16:31:26Z" finished-at="2018-10-21T16:31:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testcase.HomePageTest -->
+    </test> <!-- Gmail Test -->
+  </suite> <!-- Orange HRM Demo Test -->
+</testng-results>
